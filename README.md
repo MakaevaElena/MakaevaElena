@@ -15,8 +15,8 @@ I'm a Web Developer, mostly working with React js
   <br />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.codewars.com/users/likezninjaz" target="_blank">
     <img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/MakaevaElena/badges/small">
   </a>
-</p>
+</p> -->
