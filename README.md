@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Web Developer, mostly working with React js
+I'm a Web Developer
 
 **Languages and Tools**
 
