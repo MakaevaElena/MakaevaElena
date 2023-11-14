@@ -15,8 +15,6 @@ I'm a Web Developer
    <img align="center" alt="Javascript" width="40px" style="padding-right:10px;" src="https://github.com/surface74/surface74/assets/52540855/1dae1981-ce63-4eaf-a0f2-635de6fb87d2" />
 <img align="center" alt="Javascript" width="40px" style="padding-right:10px;" src="https://github.com/surface74/surface74/assets/52540855/3f27201d-f3eb-47d2-93a0-309239a0d727" />
    <img align="center" alt="Javascript" width="40px" style="padding-right:10px;" src="https://github.com/surface74/surface74/assets/52540855/130036c4-ff30-471a-888c-a453dbf9c053" />
-  
-  <br />
   <br />
 </p>
 <p align="center">
