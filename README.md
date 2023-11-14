@@ -11,6 +11,10 @@ I'm a Web Developer
   <img align="center" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="GIT" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   <img align="center" alt="Javascript" width="40px" style="padding-right:10px;" src="https://github.com/surface74/surface74/assets/52540855/42348453-8254-4abd-969e-576b28b16d1e" />
+   <img align="center" alt="Javascript" width="40px" style="padding-right:10px;" src="https://github.com/surface74/surface74/assets/52540855/1dae1981-ce63-4eaf-a0f2-635de6fb87d2" />
+<img align="center" alt="Javascript" width="40px" style="padding-right:10px;" src="https://github.com/surface74/surface74/assets/52540855/3f27201d-f3eb-47d2-93a0-309239a0d727" />
+   <img align="center" alt="Javascript" width="40px" style="padding-right:10px;" src="https://github.com/surface74/surface74/assets/52540855/130036c4-ff30-471a-888c-a453dbf9c053" />
   <br />
   <br />
 </p>
