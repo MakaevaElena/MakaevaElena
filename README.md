@@ -25,4 +25,17 @@ I'm a Web Developer
   <a href="https://www.codewars.com/users/likezninjaz" target="_blank">
     <img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/MakaevaElena/badges/small">
   </a>
-</p> -->
+</p>
+## 💬 Connect with me:
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/priwetiri)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/irina.peshko)
+<p>
+  <a href="https://discord.com/users/919587337871171644" target="_blank">
+    <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>
+  </a>
+    <a href="https://www.linkedin.com/in/irina-peshko-581720220/" target="_blank">
+    <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
+  </a>
+</p>
+ -->
